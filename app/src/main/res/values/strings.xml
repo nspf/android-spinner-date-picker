@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-spinner-date-picker</string>
+    <string name="click_to_select_a_date">click to select a date</string>
+</resources>
